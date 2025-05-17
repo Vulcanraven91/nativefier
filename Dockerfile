@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:22.15.1-alpine3.21
 LABEL description="Alpine image to build Nativefier apps"
 
 
